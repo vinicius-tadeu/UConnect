@@ -1,4 +1,4 @@
-package com.example.uconnect;
+package com.uconnect;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
